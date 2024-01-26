@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(199, 248, 232);
+}
+.rectangle{
+    background: rgb(199, 248, 232);;
+    border: 2px solid #000;
+    width: 400px;
+    height: 100px;
+    margin-top: 10px;
+}
+.rectangle p{
+    padding-left: 3px;
+}
