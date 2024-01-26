@@ -1,25 +1,38 @@
 header {
-    padding: 5px;
-    background: gray;
-    color: black;
-    font-size: 18px;
-    width: 100%;
-    float: left;
-  }
+  padding: 5px;
+  background: gray;
+  color: black;
+  font-size: 18px;
+  width: 99%;
+  float: left;
+}
 
 .links{
-width: 90%;
-float: right;
+width: auto;
+float: left;
 align-content: center;
 margin: 17px;
+}
 
+a{
+margin: 5px;
+align-content: center;
 }
 
 .logo{
-padding-left: 10px;
+padding-top: 3px;
+padding-left: 12px;
 float: left;
+}
+
+.formulari{
+  margin-right: 8px;
+  float: right;
 }
 
 .negre{
 color: black;
+}
+body{
+background-color:rgb(207, 250, 250) ;
 }
