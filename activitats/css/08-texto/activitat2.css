@@ -1,0 +1,16 @@
+.espai{
+    letter-spacing: 5px;
+}
+
+.espaipetit{
+    word-spacing: 10px;
+}
+
+.justificar{
+    text-align: center;
+}
+
+.mayus{
+    text-transform: uppercase;
+}
+
