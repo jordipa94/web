@@ -1,0 +1,48 @@
+.nom{
+background-color: red;
+color: white;
+}
+.roignegreta{
+color: red;
+text-decoration: underline;
+}
+.roig{
+color: red;
+text-decoration: underline;
+text-decoration-color: gray;
+font-weight: bold;
+}
+.readmore{
+color: red;
+text-decoration: underline;
+text-decoration-color: gray;
+font-style: italic;
+}
+.aboutme{
+color: red;
+font-weight:lighter
+}
+.fondogris{
+background-color: rgb(235, 235, 235);
+}
+.titul{
+font-weight: lighter;
+}
+.fecha{
+font-style: italic;
+color: gray;
+}
+.lletragran{
+font-size: larger;
+}
+.lletrapetita{
+font-size: smaller;
+}
+.roigsimplest{
+color: red;
+font-weight:lighter;
+}
+.roigsimplest2{
+color: red;
+font-weight: bolder;
+}
