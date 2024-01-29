@@ -1,9 +1,12 @@
-.lletragran{
-font-size: large;
+.size{
+    font-size:xx-large;
 }
-.estil{
-font-style: italic;
+.style{
+    font-style: italic;
 }
-.negreta{
-font-weight: bolder;
+.weight{
+    font-weight:bolder;
+}
+.size2{
+    font-size: xx-small;
 }
