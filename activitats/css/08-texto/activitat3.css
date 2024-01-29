@@ -1,0 +1,18 @@
+h1{
+    color: black;
+
+}
+h1:hover{
+    color: blue;
+    font-style: italic;
+    cursor: pointer;
+}
+h3{
+
+    color: black;
+}
+h3:hover{
+    color: red;
+    font-weight:bolder;
+    cursor: pointer;
+}
