@@ -1,0 +1,16 @@
+@font-face {
+    font-family:'SingleDay'; 
+    src: url('../../../fonts/SingleDay-Regular.ttf') format('truetype'); 
+    
+  }
+.fontuno{
+    font-family: 'SingleDay', sans-serif; 
+}
+@font-face {
+    font-family:'DancingScript'; 
+    src: url('../../../fonts/DancingScript-VariableFont_wght.ttf') format('truetype'); 
+    
+  }
+.fontdos{
+    font-family: 'DancingScript', sans-serif; 
+}
