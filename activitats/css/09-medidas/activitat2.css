@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(218, 163, 112);
+}
+
+.E{
+    background-color: black;
+    color: white;
+    width: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.S{
+    background-color: rgb(45, 45, 45);
+    color: white;
+    width: 15%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+.C{
+    background-color: rgb(63, 63, 63);
+    color: white;
+    width: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.A{
+    background-color: rgb(77, 77, 77);
+    color: white;
+    width: 25%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.L{
+    background-color: rgb(119, 119, 119);
+    color: white;
+    width: 30%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.Ados{
+    background-color: rgb(155, 155, 155);
+    color: white;
+    width: 35%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
