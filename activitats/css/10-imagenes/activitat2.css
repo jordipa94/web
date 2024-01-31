@@ -1,0 +1,30 @@
+main {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+section {
+    width: 100%;
+    text-align: center;
+}
+img {
+    width: 100%;
+    height: auto;
+    max-height: 100vh;
+    object-fit: cover;
+}
+nav ul {
+    padding: 0;
+    margin: 20px 0;
+}
+nav ul li {
+    display: inline-block;
+    margin-right: 15px;
+}
+nav ul li a {
+    color: #333;
+    font-weight: bold;
+    font-size: 18px;
+}
