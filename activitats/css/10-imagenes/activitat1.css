@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #636363;
+    margin: 0;
+    padding: 20px;
+  }
+
+  .missatge {
+    display: flex;
+    margin-bottom: 20px;
+  }
+
+  .foto {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+
+  .text {
+    background-color: #ffffff;
+    border-radius: 16px;
+    padding: 10px;
+    max-width: 20%;
+  }
+
+  .nom {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #1a1a1a;
+  }
+
+  .fecha {
+    font-size: 9px;
+    padding-top: 6px;
+  }
+
+  .usuari1 .text {
+    background-color: #266691;
+    color: #fff;
+  }
+
+  .usuari2 .text {
+    float: right;
+    background-color: #912e23;
+    color: #fff;
+  }
