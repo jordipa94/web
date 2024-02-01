@@ -1,27 +1,27 @@
 .text{
-    background-color: rgb(215, 248, 215);
-    margin-left: 221px;
-    margin-right: 221px;
+    background-color: rgb(204, 228, 204);
+    margin-right: 50%;
+    width: 465px;
+    margin-left: 700px;
 }
 .titul{
     font-style: italic;
     font-family: fantasy;
     font-size: 48px;
-    width: 25%;
-    margin-left: 80px;
+    width: 250px;
+    margin-left: 180px;
 }
 .lletrapetita{
     font-size:12px;
-    width: 40%;
-    margin-left: 80px;
+    width: 250px;
+    margin-left: 180px;
     width: 300px;
 }
 button{
     font-size: smaller;
     border-radius: 25px;
     padding: 10px 20px;
-    margin-left: 80px;
-    margin-top: 60px;
+    margin-left: 180px;
 }
 .subrayat{
     text-decoration: underline;
