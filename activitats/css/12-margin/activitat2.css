@@ -1,8 +1,31 @@
 .text{
     background-color: rgb(215, 248, 215);
+    margin-left: 221px;
+    margin-right: 221px;
 }
 .titul{
     font-style: italic;
-    font-size: 24px;
-    
+    font-family: fantasy;
+    font-size: 48px;
+    width: 25%;
+    margin-left: 80px;
+}
+.lletrapetita{
+    font-size:12px;
+    width: 40%;
+    margin-left: 80px;
+    width: 300px;
+}
+button{
+    font-size: smaller;
+    border-radius: 25px;
+    padding: 10px 20px;
+    margin-left: 80px;
+    margin-top: 60px;
+}
+.subrayat{
+    text-decoration: underline;
+}
+.centrar{
+    text-align: center;
 }
