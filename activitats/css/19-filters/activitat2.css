@@ -1,0 +1,7 @@
+.bin {
+    transition: ease-in-out;
+}
+
+.bin:hover {
+    filter:invert();
+}
