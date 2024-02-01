@@ -1,0 +1,30 @@
+.titul{
+    color: white;
+    font-size: 30px;
+    font-weight: 800;
+    background-color: black;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.text1{
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+.boto1{
+    margin-left: 50%;
+    border-radius: 50px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.text2{
+    margin-left: 440px;
+    margin-right: 440px;
+    color: white;
+    background-color: black;
+}

@@ -1,0 +1,10 @@
+ul li{
+    background-color: rgb(81, 125, 190);
+    width: 80px;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    color: white;
+    border: 1px solid;
+    border-color: black;
+}
