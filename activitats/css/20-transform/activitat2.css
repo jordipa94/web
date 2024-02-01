@@ -1,0 +1,15 @@
+#miModal {
+    top: 45%;
+    left: 45%;
+    width: 200px;
+    height: 50px;
+    background-color: #eee;
+    position: fixed;
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+  }
+
+  /* Estilos al pasar el cursor sobre el modal */
+  #miModal:hover {
+    transform: translate(-0%, -0%) scale(2);
+  }
