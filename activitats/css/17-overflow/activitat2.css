@@ -1,0 +1,35 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    overflow-x: auto;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+caption {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    
+    th, td {
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    th, td {
+        text-align: center;
+    }
+
+    tbody td:before {
+        content: attr(data-th) ": ";
+        font-weight: bold;
+        display: block;
+    }
+}
