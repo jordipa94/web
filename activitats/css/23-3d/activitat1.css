@@ -1,0 +1,3 @@
+.foto:hover {
+    transform: rotateY(20deg) rotateX(20deg);
+}
