@@ -1,0 +1,48 @@
+.cargando{
+    margin-left: 2px;
+}
+
+.punt1 {
+    width: 4px;
+    height: 4px;
+    background-color: #424242;
+    border-radius: 50%;
+    position: absolute;
+    top: 4%;
+    left: 8%;
+    transform: translate(-50%, -50%);
+    animation: animaciopunt 1s infinite alternate;
+}
+
+.punt2 {
+    width: 4px;
+    height: 4px;
+    background-color: #424242;
+    border-radius: 50%;
+    position: absolute;
+    top: 4%;
+    left: 9%;
+    transform: translate(-50%, -50%);
+    animation: animaciopunt 1s infinite alternate;
+}
+
+.punt3 {
+    width: 4px;
+    height: 4px;
+    background-color: #424242;
+    border-radius: 50%;
+    position: absolute;
+    top: 4%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    animation: animaciopunt 1s infinite alternate;
+}
+
+@keyframes animaciopunt {
+    0% {
+      transform: translate(-100%, -100%) scale(2);
+    }
+    100% {
+      transform: translate(-100%, -100%) scale(1);
+    }
+}

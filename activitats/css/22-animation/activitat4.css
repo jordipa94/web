@@ -7,7 +7,7 @@
     margin-top: 190px;
     transform-origin: 57px;
     animation-name: animacion-rotacion;
-    animation-duration: 1s;
+    animation-duration: 2s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
 }
