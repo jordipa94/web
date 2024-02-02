@@ -28,10 +28,10 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    animation: eclipseAnimation 4s infinite alternate;
+    animation: eclipse 4s infinite alternate;
 }
   
-  @keyframes eclipseAnimation {
+  @keyframes eclipse {
     0% {
       transform: translate(-50%, -50%) scale(2);
     }
