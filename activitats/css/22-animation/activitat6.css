@@ -1,0 +1,17 @@
+.pendulo{
+    margin-left: 244px;
+    margin-top: 190px;
+    transform-origin: 220px 0px;
+    animation: pendulo 4s infinite alternate;
+
+    transform:translateX(-50%) ;
+}
+@keyframes pendulo {
+    from {
+      transform: rotate(-50deg);
+    }
+  
+    to {
+        transform: rotate(50deg);
+      }
+}

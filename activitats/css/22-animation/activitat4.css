@@ -1,0 +1,22 @@
+.reloj{
+    position:absolute;
+    z-index: 2;
+}
+.agulla{
+    margin-left: 244px;
+    margin-top: 190px;
+    transform-origin: 57px;
+    animation-name: animacion-rotacion;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@keyframes animacion-rotacion {
+    from {
+      transform: rotate(0deg);
+    }
+  
+    to {
+      transform: rotate(360deg);
+    }
+}
