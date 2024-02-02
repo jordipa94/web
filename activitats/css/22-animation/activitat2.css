@@ -1,0 +1,22 @@
+@keyframes animacion-rotacion {
+    from {
+      transform: rotate(0deg);
+    }
+  
+    to {
+      transform: rotate(90deg);
+    }
+  }
+  
+  .cuadrado {
+    margin-top: 80px;
+    margin-left: 60px;
+    width: 10rem;
+    height: 10rem;
+    background: rgb(105, 103, 100);
+
+    animation-name: animacion-rotacion;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
