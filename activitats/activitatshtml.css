@@ -1,6 +1,5 @@
-body {
+body{
     margin: 0;
-    background-color: #797979;
 }
 header {
     display: flex;
