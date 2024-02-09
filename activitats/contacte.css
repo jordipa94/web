@@ -1,4 +1,4 @@
-body {
+body{
     margin: 0;
     background-color: #797979;
 }
@@ -29,7 +29,8 @@ header {
 .contacte :hover{
     color: gray;
 }
-.wireframe{
+.curriculum{
     margin-top: 2%;
-    margin-left: 33%;
+    margin-left: 5%;
+    color: black;
 }

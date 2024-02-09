@@ -22,3 +22,10 @@ header {
 .activitatCSS :hover{
     color: gray;
 }
+.contacte{
+    margin-left: 20px;
+    color: black;
+}
+.contacte :hover{
+    color: gray;
+}
