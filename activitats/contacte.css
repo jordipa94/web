@@ -34,3 +34,10 @@ header {
     margin-left: 5%;
     color: black;
 }
+.activitatRSS{
+    margin-left: 20px;
+    color: black;
+}
+.activitatRSS :hover{
+    color: gray;
+}
