@@ -30,3 +30,10 @@ header {
 .contacte :hover{
     color: gray;
 }
+.activitatRSS{
+    margin-left: 20px;
+    color: black;
+}
+.activitatRSS :hover{
+    color: gray;
+}
