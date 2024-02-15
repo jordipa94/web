@@ -1,0 +1,28 @@
+<rss version="2.0">
+    <channel>
+
+      <title>My Example Updates</title>
+      <link>http://example.com/</link>
+      <description>Things that I've recently updated.</description>
+
+      <item>
+         <title>Article1</title>
+         <description></description>
+
+      </item>
+
+      <item>
+        <title>Article2</title>
+        <description></description>
+
+     </item>
+
+     <item>
+        <title>Article3</title>
+        <description></description>
+
+     </item>
+
+    </channel>
+
+  </rss>
