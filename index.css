@@ -40,3 +40,10 @@ header {
 .activitatRSS :hover{
     color: gray;
 }
+.activitatATOM{
+    margin-left: 20px;
+    color: black;
+}
+.activitatATOM :hover{
+    color: gray;
+}

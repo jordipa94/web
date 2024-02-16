@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>ATOM Jordi Pujol</title>
+  <updated>2024-02-16-17:03</updated>
+  <author>
+    <name>Jordi Pujol</name>
+  </author>
+
+  <entry>
+    <title>Article 1</title>
+    <link href="http://example.org/2003/12/13/atom03"/>
+    <updated>2024-02-16-17:05</updated>
+    <summary>Apple trabaja en un iPhone completamente diferente a todos los anteriores.</summary>
+  </entry>
+
+  <entry>
+    <title>Article 2</title>
+    <link href="http://example.org/2003/12/13/atom03"/>
+    <updated>2024-02-16-17:08</updated>
+    <summary>La inteligencia artificial dispara los ingresos y beneficios de Microsoft.</summary>
+  </entry>
+
+  <entry>
+    <title>Article 3</title>
+    <link href="http://example.org/2003/12/13/atom03"/>
+    <updated>2024-02-16-17:12</updated>
+    <summary>Cómo evitar que tu cuenta de Google sea borrada por inactividad el 1 de diciembre.</summary>
+  </entry>
+
+</feed>
